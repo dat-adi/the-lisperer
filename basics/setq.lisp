@@ -1,0 +1,13 @@
+(setq x 10)
+(setq y 20.40)
+(setq ch nil)
+(setq n 242.33)
+(setq bg 11.0e+4)
+(setq comm 134/2)
+
+(print x)
+(print y)
+(print ch)
+(print n)
+(print bg)
+(print comm)
